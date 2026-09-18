@@ -8,21 +8,22 @@ My 6-month journey through Data Structures & Algorithms using Java.
 
 ## 🏁 Race Progress
 
-**Problems Solved:** 5  
-**Current Streak:** 5 Days 🔥  
+**Problems Solved:** 6  
+**Current Streak:** 6 Days 🔥  
 **Current Track:** Arrays
 
 ---
 
 ## 🏆 Race Log
 
-| Day | Track | Lap | Difficulty | Time | Result |
-|---:|---|---|---|---:|---|
-| 01 | Arrays | Two Sum | Easy | 09:52 | ✅ Accepted |
-| 02 | Arrays | Best Time to buy and Sell Stocks | Easy | 12:12 | ✅ Accepted |
-| 03 | Arrays | Contains Duplicate | Easy | 05:32 | TLE ⏱️→ HashSet optimization tomorrow |
-| 04 | Arrays | Move Zeroes | Easy | 05:43 | ✅ Accepted |
-| 05 | Arrays | Remove Duplicates | Easy | 03:58 | ✅ Accepted |
+| Day | LeetCode | Track  | Lap                                 | Difficulty | Time  | Result                                 |
+| --: | :------: | ------ | ----------------------------------- | ---------- | ----: | -------------------------------------- |
+| 01  | #1       | Arrays | Two Sum                             | Easy       | 09:52 | ✅ Accepted                            |
+| 02  | #121     | Arrays | Best Time to Buy and Sell Stock     | Easy       | 12:12 | ✅ Accepted                            |
+| 03  | #217     | Arrays | Contains Duplicate                  | Easy       | 05:32 | TLE ⏱️ → HashSet optimization planned |
+| 04  | #283     | Arrays | Move Zeroes                         | Easy       | 05:43 | ✅ Accepted                            |
+| 05  | #26      | Arrays | Remove Duplicates from Sorted Array | Easy       | 03:58 | ✅ Accepted                            |
+| 06  | #53      | Arrays | Maximum Subarray                    | Medium     | 31:25 | ✅ Accepted                            |
 
 ---
 
@@ -50,13 +51,13 @@ My 6-month journey through Data Structures & Algorithms using Java.
 
 ## 📈 Stats
 
-| Metric | Progress |
-|---|---:|
-| Problems | 5 |
-| Easy | 5 |
-| Medium | 0 |
-| Hard | 0 |
-| Current Streak | 5 🔥 |
+| Metric         | Progress |
+| -------------- | -------: |
+| Problems       |        6 |
+| Easy           |        5 |
+| Medium         |        1 |
+| Hard           |        0 |
+| Current Streak |     6 🔥 |
 
 ---
 
