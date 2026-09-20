@@ -5,6 +5,7 @@
  * Track: Arrays
  * Lap: Rotate Array
  * LeetCode: #189
+ * Time: 16:50
  * Difficulty: Medium
  * Result: Accepted ✅
  *
