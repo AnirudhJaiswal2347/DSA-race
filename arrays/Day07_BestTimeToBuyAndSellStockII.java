@@ -3,7 +3,7 @@
  * Track: Arrays
  * Lap: Best Time to Buy and Sell Stock II
  * Difficulty: Medium
- * Time: 12:13
+ * Time: 14:13
  * Result: Accepted ✅
  *
  * Approach: Greedy
