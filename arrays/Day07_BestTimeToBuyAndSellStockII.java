@@ -17,9 +17,6 @@ class Solution {
         for (int i=1; i<n; i++){
             if(prices[i]>=prices[i-1])
                 m+=prices[i]-prices[i-1];
-            else{
-                continue;
-            }
         }
         return m;
     }
