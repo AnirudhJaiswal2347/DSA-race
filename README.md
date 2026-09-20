@@ -8,8 +8,8 @@ My 6-month journey through Data Structures & Algorithms using Java.
 
 ## 🏁 Race Progress
 
-**Problems Solved:** 6  
-**Current Streak:** 6 Days 🔥  
+**Problems Solved:** 7  
+**Current Streak:** 7 Days 🔥  
 **Current Track:** Arrays
 
 ---
@@ -20,10 +20,11 @@ My 6-month journey through Data Structures & Algorithms using Java.
 | --: | :------: | ------ | ----------------------------------- | ---------- | ----: | -------------------------------------- |
 | 01  | #1       | Arrays | Two Sum                             | Easy       | 09:52 | ✅ Accepted                            |
 | 02  | #121     | Arrays | Best Time to Buy and Sell Stock     | Easy       | 12:12 | ✅ Accepted                            |
-| 03  | #217     | Arrays | Contains Duplicate                  | Easy       | 05:32 | TLE ⏱️ → HashSet optimization planned |
+| 03  | #217     | Arrays | Contains Duplicate                  | Easy       | 05:32 | TLE ⏱️ → HashSet optimization planned  |
 | 04  | #283     | Arrays | Move Zeroes                         | Easy       | 05:43 | ✅ Accepted                            |
 | 05  | #26      | Arrays | Remove Duplicates from Sorted Array | Easy       | 03:58 | ✅ Accepted                            |
 | 06  | #53      | Arrays | Maximum Subarray                    | Medium     | 31:25 | ✅ Accepted                            |
+| 07  | #122     | Arrays | Best Time to Buy and Sell Stock II  | Medium     | 14:13 | ✅ Accepted                            |
 
 ---
 
@@ -53,11 +54,11 @@ My 6-month journey through Data Structures & Algorithms using Java.
 
 | Metric         | Progress |
 | -------------- | -------: |
-| Problems       |        6 |
+| Problems       |        7 |
 | Easy           |        5 |
-| Medium         |        1 |
+| Medium         |        2 |
 | Hard           |        0 |
-| Current Streak |     6 🔥 |
+| Current Streak |     7 🔥 |
 
 ---
 
