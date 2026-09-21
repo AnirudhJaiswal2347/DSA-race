@@ -8,8 +8,8 @@ My 6-month journey through Data Structures & Algorithms using Java.
 
 ## 🏁 Race Progress
 
-**Problems Solved:** 8  
-**Current Streak:** 8 Days 🔥  
+**Problems Solved:** 9  
+**Current Streak:** 9 Days 🔥  
 **Current Track:** Arrays
 
 ---
@@ -26,6 +26,7 @@ My 6-month journey through Data Structures & Algorithms using Java.
 | 06  | #53      | Arrays | Maximum Subarray                    | Medium     | 31:25 | ✅ Accepted                            |
 | 07  | #122     | Arrays | Best Time to Buy and Sell Stock II  | Medium     | 14:13 | ✅ Accepted                            |
 | 08  | #189     | Arrays | Rotate Array                        | Medium     | 16:50 | ✅ Accepted                            |
+| 09  | #136     | Arrays | Single Number                       | Easy       | 04:52 | ✅ Accepted                            |
 
 
 ---
@@ -56,11 +57,11 @@ My 6-month journey through Data Structures & Algorithms using Java.
 
 | Metric         | Progress |
 | -------------- | -------: |
-| Problems       |        8 |
-| Easy           |        5 |
+| Problems       |        9 |
+| Easy           |        6 |
 | Medium         |        3 |
 | Hard           |        0 |
-| Current Streak |      8🔥 |
+| Current Streak |      9🔥 |
 
 ---
 
