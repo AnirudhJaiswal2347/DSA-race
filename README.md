@@ -1,385 +1,529 @@
 # 🏎️ DSA RACE
 
+### *My 6-Month Journey Through Data Structures & Algorithms Using Java*
+
 > One problem. One lap. Every day.
+>
+> Build the skill. Improve the pace. Finish the race. 🏁
+
+---
 
 ## 🏁 Race Progress
 
-- **Problems Solved / Attempted:** 9
+| Metric | Current Status |
+|---|---|
+| **Problems Solved** | 9 |
+| **Current Streak** | 9 Days 🔥 |
+| **Current Track** | Arrays |
+| **Race Day** | Day 09 |
+| **Language** | Java |
+| **Platform** | LeetCode |
+| **Goal** | 200+ Problems |
 
-- **Current Streak:** 9 Days 🔥
-
-- **Current Track:** Arrays
-
-- **Language:** Java
-
-- **Goal:** 200+ LeetCode Problems
+---
 
 ## 🏆 Race Log
 
-Day
+| Day | LeetCode | Track | Lap | Difficulty | Time | Result |
+|---:|:---:|---|---|---|---:|---|
+| 01 | #1 | Arrays | Two Sum | Easy | 09:52 | ✅ Accepted |
+| 02 | #121 | Arrays | Best Time to Buy and Sell Stock | Easy | 12:12 | ✅ Accepted |
+| 03 | #217 | Arrays | Contains Duplicate | Easy | 05:32 | ⏱️ TLE → HashSet optimization planned |
+| 04 | #283 | Arrays | Move Zeroes | Easy | 05:43 | ✅ Accepted |
+| 05 | #26 | Arrays | Remove Duplicates from Sorted Array | Easy | 03:58 | ✅ Accepted |
+| 06 | #53 | Arrays | Maximum Subarray | Medium | 31:25 | ✅ Accepted |
+| 07 | #122 | Arrays | Best Time to Buy and Sell Stock II | Medium | 14:13 | ✅ Accepted |
+| 08 | #189 | Arrays | Rotate Array | Medium | 16:50 | ✅ Accepted |
+| 09 | #136 | Arrays | Single Number | Easy | 04:52 | ✅ Accepted |
+
+---
+
+# 🗺️ 180-DAY CHAMPIONSHIP ROADMAP
+
+> 🏎️ **18 Stints × 10 Days = 180 Days**
+>
+> Each stint represents one major DSA track.
+
+---
+
+## 🏎️ STINT 01 — DAYS 01–20
+### 🟢 ARRAYS — THE STARTING GRID
+
+**Focus:**
+- Array traversal
+- Two-pointer fundamentals
+- In-place manipulation
+- Prefix/Suffix techniques
+- Greedy array problems
+- Kadane's Algorithm
+- Bit manipulation basics
+- Medium array problems
+- Selected Hard challenge
+
+**Target:**
+> Build a strong foundation before leaving the starting grid.
+
+**Checkpoint:**
+- Understand common array patterns
+- Identify brute force vs optimized approaches
+- Comfortably solve Easy problems
+- Begin solving Medium problems independently
+
+**Status:** 🟡 IN PROGRESS
+
+---
+
+## 🏎️ STINT 02 — DAYS 21–30
+### 🔵 STRINGS
+
+**Focus:**
+- Character manipulation
+- Palindromes
+- Anagrams
+- String traversal
+- Substrings
+- Character frequency
+- String-based two pointers
+
+**Checkpoint:**
+> Recognize common string patterns without brute-forcing everything.
+
+---
+
+## 🏎️ STINT 03 — DAYS 31–40
+### 🟣 HASHING
+
+**Focus:**
+- HashMap
+- HashSet
+- Frequency counting
+- Duplicate detection
+- Two Sum variations
+- Group Anagrams
+- Longest Consecutive Sequence
+
+**Checkpoint:**
+> Know when hashing can reduce an O(n²) approach to O(n).
+
+---
+
+## 🏎️ STINT 04 — DAYS 41–50
+### 🟠 TWO POINTERS
+
+**Focus:**
+- Left/right pointers
+- Same-direction pointers
+- Sorted arrays
+- 3Sum
+- Container With Most Water
+- Partition-style problems
+
+**Checkpoint:**
+> Understand why each pointer moves instead of guessing.
+
+---
+
+## 🏎️ STINT 05 — DAYS 51–60
+### 🟡 SLIDING WINDOW
+
+**Focus:**
+- Fixed-size windows
+- Variable-size windows
+- Frequency maps
+- Longest substring problems
+- Minimum window patterns
+
+**Checkpoint:**
+> Recognize when a problem requires maintaining a continuous window.
 
-LeetCode
+---
+
+## 🏎️ STINT 06 — DAYS 61–70
+### 🔴 STACK & QUEUE
 
-Track
+**Focus:**
+- Stack
+- Queue
+- Deque
+- Valid Parentheses
+- Monotonic Stack
+- Next Greater Element
+- Daily Temperatures
+
+**Checkpoint:**
+> Identify LIFO, FIFO and monotonic-stack patterns.
 
-Lap
+---
+
+## 🏎️ STINT 07 — DAYS 71–80
+### 🟢 BINARY SEARCH
+
+**Focus:**
+- Classic Binary Search
+- First/Last Occurrence
+- Search in Rotated Array
+- Binary Search on Answer
+- Search-space reduction
+
+**Checkpoint:**
+> Clearly define the search space and loop condition.
+
+---
+
+## 🏎️ STINT 08 — DAYS 81–90
+### 🔵 LINKED LIST
+
+**Focus:**
+- Traversal
+- Insertion/Deletion
+- Reverse Linked List
+- Fast & Slow Pointers
+- Cycle Detection
+- Merge Linked Lists
+- Intersection
+
+**Checkpoint:**
+> Manipulate references without losing nodes.
+
+---
+
+## 🏎️ STINT 09 — DAYS 91–100
+### 🟣 RECURSION
+
+**Focus:**
+- Base cases
+- Recursive calls
+- Recursion trees
+- Divide & Conquer
+- Recursive array/string problems
+
+**Checkpoint:**
+> Be able to explain exactly what each recursive call represents.
+
+---
+
+## 🏎️ STINT 10 — DAYS 101–110
+### 🟠 BACKTRACKING
+
+**Focus:**
+- Subsets
+- Permutations
+- Combinations
+- Combination Sum
+- Decision trees
+- N-Queens
+
+**Checkpoint:**
+> Draw the recursion tree before attempting difficult problems.
+
+---
+
+## 🏎️ STINT 11 — DAYS 111–120
+### 🟡 SORTING & INTERVALS
+
+**Focus:**
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort concepts
+- Custom Comparators
+- Merge Intervals
+- Meeting Rooms
+
+**Checkpoint:**
+> Understand when sorting simplifies the entire problem.
+
+---
+
+## 🏎️ STINT 12 — DAYS 121–130
+### 🔴 HEAPS & PRIORITY QUEUE
+
+**Focus:**
+- Min Heap
+- Max Heap
+- Java PriorityQueue
+- Kth Largest
+- Top K Frequent
+- Scheduling problems
+- Merge K Sorted Lists
+
+**Checkpoint:**
+> Recognize problems where only the smallest/largest elements matter.
+
+---
+
+## 🏎️ STINT 13 — DAYS 131–140
+### 🟢 BINARY TREES
+
+**Focus:**
+- DFS
+- BFS
+- Preorder
+- Inorder
+- Postorder
+- Level Order
+- Maximum Depth
+- Diameter
+- Lowest Common Ancestor
+
+**Checkpoint:**
+> Choose DFS or BFS intentionally based on the problem.
 
-Difficulty
+---
 
-Time
+## 🏎️ STINT 14 — DAYS 141–150
+### 🔵 BST & TRIE
 
-Result
+**Focus:**
+- BST Search
+- BST Insertion
+- Validate BST
+- Kth Smallest
+- Trie
+- Prefix Search
+- Word Dictionary
 
-01
+**Checkpoint:**
+> Understand how structure can make searching faster.
 
-#1
+---
 
-Arrays
+## 🏎️ STINT 15 — DAYS 151–160
+### 🟣 GRAPHS
 
-Two Sum
+**Focus:**
+- Adjacency List
+- Adjacency Matrix
+- BFS
+- DFS
+- Connected Components
+- Number of Islands
+- Cycle Detection
+- Topological Sort
 
-Easy
+**Checkpoint:**
+> Convert real-world problems into nodes, edges and traversal rules.
 
-09:52
+---
 
-✅ Accepted
+## 🏎️ STINT 16 — DAYS 161–170
+### 🟠 GREEDY & ADVANCED GRAPHS
 
-02
+**Focus:**
+- Union Find / DSU
+- Dijkstra
+- Minimum Spanning Tree
+- Greedy Algorithms
+- Jump Game
+- Gas Station
 
-#121
+**Checkpoint:**
+> Distinguish between greedy optimization, traversal and shortest-path problems.
 
-Arrays
+---
 
-Best Time to Buy and Sell Stock
+## 🏎️ STINT 17 — DAYS 171–180
+### 🔥 DYNAMIC PROGRAMMING
 
-Easy
+**Focus:**
+- Memoization
+- Tabulation
+- 1D DP
+- 2D DP
+- Knapsack
+- House Robber
+- Longest Common Subsequence
 
-12:12
+**Checkpoint:**
+> Identify:
+> **State → Transition → Base Case → Answer**
 
-✅ Accepted
+---
 
-03
+# 🏁 FINAL CHAMPIONSHIP
 
-#217
+After the main roadmap:
 
-Arrays
+### 🏆 Championship Mode
 
-Contains Duplicate
+- Mixed Medium problems
+- Selected Hard problems
+- Timed LeetCode sessions
+- Revisit TLE problems
+- Revisit Wrong Answers
+- Pattern revision
+- Mock interviews
+- Complexity revision
+- Random-topic challenges
 
-Easy
+> **No topic selection. No comfort zone. Random grid starts.**
 
-05:32
+---
 
-⏱️ TLE → HashSet planned
+# 🔧 RACE DAY FORMAT
 
-04
+Every day follows the same race procedure:
 
-#283
+### 🟢 1. WARM-UP
 
-Arrays
+Review one previously solved problem.
 
-Move Zeroes
+### 🟡 2. QUALIFYING
 
-Easy
+Read the problem carefully.
 
-05:43
+Identify:
 
-✅ Accepted
+- Input
+- Output
+- Constraints
+- Examples
+- Possible patterns
 
-05
+### 🔴 3. MAIN LAP
 
-#26
+Attempt the problem independently.
 
-Arrays
+No solution immediately.
 
-Remove Duplicates from Sorted Array
+### 🛠️ 4. PIT WALL
 
-Easy
+If stuck:
 
-03:58
+**Hint 1 → Concept**
 
-✅ Accepted
+↓
 
-06
+**Hint 2 → Approach**
 
-#53
+↓
 
-Arrays
+**Hint 3 → Specific direction**
 
-Maximum Subarray
+↓
 
-Medium
+**Solution only if explicitly requested**
 
-31:25
+### 📊 5. TELEMETRY
 
-✅ Accepted
+Record:
 
-07
+- Approach
+- Time Complexity
+- Space Complexity
+- Mistakes
+- Optimization
 
-#122
+### 🏁 6. FINISH LINE
 
-Arrays
+Submit to LeetCode.
 
-Best Time to Buy and Sell Stock II
+Then update:
 
-Medium
+- README
+- Java file
+- GitHub commit
 
-14:13
+---
 
-✅ Accepted
+# 🟢 DIFFICULTY PROGRESSION
 
-08
+| Stage | Focus |
+|---|---|
+| 🟢 Foundation | Easy + Introductory Medium |
+| 🟡 Development | Mostly Medium + Selected Hard |
+| 🟠 Advanced | Medium Mastery + Regular Hard |
+| 🔴 Championship | Mixed Medium/Hard + Timed Practice |
 
-#189
+---
 
-Arrays
+# 🛠️ RACE RULES
 
-Rotate Array
+1. **Attempt before asking for the solution.**
+2. **Understand the pattern, not just the code.**
+3. **Record failures.**
+4. **TLE is data — learn from it.**
+5. **Wrong Answer is part of the race.**
+6. **Review weak topics during pit stops.**
+7. **Don't chase runtime percentile over understanding.**
+8. **Keep GitHub contributions meaningful.**
+9. **Consistency > motivation.**
+10. **Never skip fundamentals just to reach Hard problems faster.**
 
-Medium
+---
 
-16:50
+# 📊 STATS
 
-✅ Accepted
+| Metric | Progress |
+|---|---:|
+| Problems | 9 |
+| Easy | 6 |
+| Medium | 3 |
+| Hard | 0 |
+| Current Streak | 9 🔥 |
+| Target | 200+ |
 
-09
+---
 
-#136
+# 🧭 TRACK STATUS
 
-Arrays
-
-Single Number
-
-Easy
-
-04:52
-
-✅ Accepted
-
-## 🗺️ 180-DAY CHAMPIONSHIP ROADMAP
-
-Each stint is 10 days: 7 learning/racing days, 2 challenge days, and 1 pit-stop review day.
-
-Days
-
-Track
-
-Focus
-
-01–20
-
-Arrays
-
-Fundamentals, prefix sums, greedy, in-place techniques, Medium + selected Hard
-
-21–30
-
-Strings
-
-Palindromes, anagrams, substrings, frequency patterns
-
-31–40
-
-Hashing
-
-HashMap, HashSet, frequency counting, optimized lookups
-
-41–50
-
-Two Pointers
-
-Sorted arrays, 3Sum, container patterns
-
-51–60
-
-Sliding Window
-
-Fixed/variable windows, frequency maps, substring problems
-
-61–70
-
-Stack & Queue
-
-Parentheses, monotonic stack, deque, next greater element
-
-71–80
-
-Binary Search
-
-Classic search, rotated arrays, binary search on answer
-
-81–90
-
-Linked List
-
-Reversal, fast/slow pointers, cycles, merging
-
-91–100
-
-Recursion
-
-Base cases, recursion trees, decomposition
-
-101–110
-
-Backtracking
-
-Subsets, permutations, combinations, N-Queens
-
-111–120
-
-Sorting & Intervals
-
-Merge sort concepts, comparators, merge intervals
-
-121–130
-
-Heaps
-
-PriorityQueue, Top K, scheduling, Kth largest
-
-131–140
-
-Trees
-
-DFS, BFS, traversals, depth, diameter, LCA
-
-141–150
-
-BST & Trie
-
-BST validation, kth smallest, prefix search
-
-151–160
-
-Graphs
-
-BFS, DFS, components, cycles, topological sort
-
-161–170
-
-Greedy & Advanced Graphs
-
-Union-Find, Dijkstra, MST, Jump Game
-
-171–180
-
-Dynamic Programming + Championship
-
-1D/2D DP, knapsack, mixed Medium/Hard, mocks
-
-## 🏎️ RACE FORMAT
-
-1. **Warm-up:** Review one previous problem.
-
-2. **Qualifying:** Understand constraints and examples.
-
-3. **Main Lap:** Attempt independently.
-
-4. **Pit Wall:** Receive progressive hints; no full solution unless requested.
-
-5. **Telemetry:** Record approach, time complexity, and space complexity.
-
-6. **Finish Line:** Submit, document, and commit to GitHub.
-
-## 🔧 DIFFICULTY PROGRESSION
-
-- **Foundation:** Easy + introductory Medium
-
-- **Development:** Mostly Medium + selected Hard
-
-- **Advanced:** Medium mastery + regular Hard attempts
-
-- **Championship:** Timed mixed-topic practice and mock interviews
-
-## 🛠️ RACE RULES
-
-- Attempt before requesting a solution.
-
-- Understand patterns, not just code.
-
-- Record failures such as TLE and wrong answers.
-
-- Revisit weak topics during pit stops.
-
-- Do not chase runtime percentile at the cost of understanding.
-
-- Maintain meaningful GitHub contributions.
-
-## 📊 STATS
-
-Metric
-
-Progress
-
-Problems Solved / Attempted
-
-9
-
-Easy
-
-6
-
-Medium
-
-3
-
-Hard
-
-0
-
-Current Streak
-
-9 🔥
-
-Target
-
-200+
-
-## 🧭 TRACK STATUS
-
-- [ ] Arrays — In Progress
-
+- [x] Arrays — In Progress
 - [ ] Strings
-
 - [ ] Hashing
-
 - [ ] Two Pointers
-
 - [ ] Sliding Window
-
 - [ ] Stack & Queue
-
 - [ ] Binary Search
-
 - [ ] Linked List
-
 - [ ] Recursion
-
 - [ ] Backtracking
-
 - [ ] Sorting & Intervals
-
 - [ ] Trees
-
 - [ ] BST
-
 - [ ] Heaps
-
 - [ ] Graphs
-
 - [ ] Trie
-
 - [ ] Greedy
-
 - [ ] Dynamic Programming
 
-## 🚦 CURRENT POSITION
+---
 
-**Race Day:** 09
+# 🚦 CURRENT POSITION
 
-**Next Race:** Day 10 — Medium Array Challenge
+| Telemetry | Status |
+|---|---|
+| **Race Day** | 09 |
+| **Current Track** | Arrays |
+| **Current Streak** | 9 Days 🔥 |
+| **Next Race** | Day 10 |
+| **Next Difficulty** | Medium |
+| **Next Target** | Arrays |
 
-**Current Streak:** 9 Days 🔥
+---
 
-> No shortcuts. No skipped fundamentals. Just better laps every day. 🏁
+# 🎯 FINAL DESTINATION
+
+By the end of the six-month race:
+
+- 🏁 **200+ LeetCode Problems**
+- 🧠 Strong DSA fundamentals
+- ⚡ Easy problems solved confidently
+- 🔥 Strong Medium problem-solving ability
+- 💀 Selected Hard problems attempted
+- 🟩 Consistent GitHub contributions
+- 💼 Stronger technical interview foundation
+- 🏎️ Ability to explain approaches and complexity clearly
+
+---
+
+# 🏁 THE FINISH LINE
+
+> **No shortcuts.**
+>
+> **No skipped fundamentals.**
+>
+> **No fear of TLE.**
+>
+> **Just one better lap every day.**
+>
+> ## 🏎️ KEEP RACING. 🏁
