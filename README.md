@@ -1,11 +1,8 @@
 # 🏎️ DSA RACE
 
-
 > One problem. One lap. Every day.
 
-
 ## 🏁 Race Progress
-
 
 - **Problems Solved / Attempted:** 9
 
@@ -17,80 +14,261 @@
 
 - **Goal:** 200+ LeetCode Problems
 
-
 ## 🏆 Race Log
 
+Day
 
-| Day | LeetCode | Track | Lap | Difficulty | Time | Result |
+LeetCode
 
-|---:|:---:|---|---|---|---:|---|
+Track
 
-| 01 | #1 | Arrays | Two Sum | Easy | 09:52 | ✅ Accepted |
+Lap
 
-| 02 | #121 | Arrays | Best Time to Buy and Sell Stock | Easy | 12:12 | ✅ Accepted |
+Difficulty
 
-| 03 | #217 | Arrays | Contains Duplicate | Easy | 05:32 | ⏱️ TLE → HashSet planned |
+Time
 
-| 04 | #283 | Arrays | Move Zeroes | Easy | 05:43 | ✅ Accepted |
+Result
 
-| 05 | #26 | Arrays | Remove Duplicates from Sorted Array | Easy | 03:58 | ✅ Accepted |
+01
 
-| 06 | #53 | Arrays | Maximum Subarray | Medium | 31:25 | ✅ Accepted |
+#1
 
-| 07 | #122 | Arrays | Best Time to Buy and Sell Stock II | Medium | 14:13 | ✅ Accepted |
+Arrays
 
-| 08 | #189 | Arrays | Rotate Array | Medium | 16:50 | ✅ Accepted |
+Two Sum
 
-| 09 | #136 | Arrays | Single Number | Easy | 04:52 | ✅ Accepted |
+Easy
 
+09:52
+
+✅ Accepted
+
+02
+
+#121
+
+Arrays
+
+Best Time to Buy and Sell Stock
+
+Easy
+
+12:12
+
+✅ Accepted
+
+03
+
+#217
+
+Arrays
+
+Contains Duplicate
+
+Easy
+
+05:32
+
+⏱️ TLE → HashSet planned
+
+04
+
+#283
+
+Arrays
+
+Move Zeroes
+
+Easy
+
+05:43
+
+✅ Accepted
+
+05
+
+#26
+
+Arrays
+
+Remove Duplicates from Sorted Array
+
+Easy
+
+03:58
+
+✅ Accepted
+
+06
+
+#53
+
+Arrays
+
+Maximum Subarray
+
+Medium
+
+31:25
+
+✅ Accepted
+
+07
+
+#122
+
+Arrays
+
+Best Time to Buy and Sell Stock II
+
+Medium
+
+14:13
+
+✅ Accepted
+
+08
+
+#189
+
+Arrays
+
+Rotate Array
+
+Medium
+
+16:50
+
+✅ Accepted
+
+09
+
+#136
+
+Arrays
+
+Single Number
+
+Easy
+
+04:52
+
+✅ Accepted
 
 ## 🗺️ 180-DAY CHAMPIONSHIP ROADMAP
 
-
 Each stint is 10 days: 7 learning/racing days, 2 challenge days, and 1 pit-stop review day.
 
+Days
 
-| Days | Track | Focus |
+Track
 
-|---|---|---|
+Focus
 
-| 01–20 | Arrays | Fundamentals, prefix sums, greedy, in-place techniques, Medium + selected Hard |
+01–20
 
-| 21–30 | Strings | Palindromes, anagrams, substrings, frequency patterns |
+Arrays
 
-| 31–40 | Hashing | HashMap, HashSet, frequency counting, optimized lookups |
+Fundamentals, prefix sums, greedy, in-place techniques, Medium + selected Hard
 
-| 41–50 | Two Pointers | Sorted arrays, 3Sum, container patterns |
+21–30
 
-| 51–60 | Sliding Window | Fixed/variable windows, frequency maps, substring problems |
+Strings
 
-| 61–70 | Stack & Queue | Parentheses, monotonic stack, deque, next greater element |
+Palindromes, anagrams, substrings, frequency patterns
 
-| 71–80 | Binary Search | Classic search, rotated arrays, binary search on answer |
+31–40
 
-| 81–90 | Linked List | Reversal, fast/slow pointers, cycles, merging |
+Hashing
 
-| 91–100 | Recursion | Base cases, recursion trees, decomposition |
+HashMap, HashSet, frequency counting, optimized lookups
 
-| 101–110 | Backtracking | Subsets, permutations, combinations, N-Queens |
+41–50
 
-| 111–120 | Sorting & Intervals | Merge sort concepts, comparators, merge intervals |
+Two Pointers
 
-| 121–130 | Heaps | PriorityQueue, Top K, scheduling, Kth largest |
+Sorted arrays, 3Sum, container patterns
 
-| 131–140 | Trees | DFS, BFS, traversals, depth, diameter, LCA |
+51–60
 
-| 141–150 | BST & Trie | BST validation, kth smallest, prefix search |
+Sliding Window
 
-| 151–160 | Graphs | BFS, DFS, components, cycles, topological sort |
+Fixed/variable windows, frequency maps, substring problems
 
-| 161–170 | Greedy & Advanced Graphs | Union-Find, Dijkstra, MST, Jump Game |
+61–70
 
-| 171–180 | Dynamic Programming + Championship | 1D/2D DP, knapsack, mixed Medium/Hard, mocks |
+Stack & Queue
 
+Parentheses, monotonic stack, deque, next greater element
+
+71–80
+
+Binary Search
+
+Classic search, rotated arrays, binary search on answer
+
+81–90
+
+Linked List
+
+Reversal, fast/slow pointers, cycles, merging
+
+91–100
+
+Recursion
+
+Base cases, recursion trees, decomposition
+
+101–110
+
+Backtracking
+
+Subsets, permutations, combinations, N-Queens
+
+111–120
+
+Sorting & Intervals
+
+Merge sort concepts, comparators, merge intervals
+
+121–130
+
+Heaps
+
+PriorityQueue, Top K, scheduling, Kth largest
+
+131–140
+
+Trees
+
+DFS, BFS, traversals, depth, diameter, LCA
+
+141–150
+
+BST & Trie
+
+BST validation, kth smallest, prefix search
+
+151–160
+
+Graphs
+
+BFS, DFS, components, cycles, topological sort
+
+161–170
+
+Greedy & Advanced Graphs
+
+Union-Find, Dijkstra, MST, Jump Game
+
+171–180
+
+Dynamic Programming + Championship
+
+1D/2D DP, knapsack, mixed Medium/Hard, mocks
 
 ## 🏎️ RACE FORMAT
-
 
 1. **Warm-up:** Review one previous problem.
 
@@ -104,9 +282,7 @@ Each stint is 10 days: 7 learning/racing days, 2 challenge days, and 1 pit-stop 
 
 6. **Finish Line:** Submit, document, and commit to GitHub.
 
-
 ## 🔧 DIFFICULTY PROGRESSION
-
 
 - **Foundation:** Easy + introductory Medium
 
@@ -116,9 +292,7 @@ Each stint is 10 days: 7 learning/racing days, 2 challenge days, and 1 pit-stop 
 
 - **Championship:** Timed mixed-topic practice and mock interviews
 
-
 ## 🛠️ RACE RULES
-
 
 - Attempt before requesting a solution.
 
@@ -132,29 +306,37 @@ Each stint is 10 days: 7 learning/racing days, 2 challenge days, and 1 pit-stop 
 
 - Maintain meaningful GitHub contributions.
 
-
 ## 📊 STATS
 
+Metric
 
-| Metric | Progress |
+Progress
 
-|---|---:|
+Problems Solved / Attempted
 
-| Problems Solved / Attempted | 9 |
+9
 
-| Easy | 6 |
+Easy
 
-| Medium | 3 |
+6
 
-| Hard | 0 |
+Medium
 
-| Current Streak | 9 🔥 |
+3
 
-| Target | 200+ |
+Hard
 
+0
+
+Current Streak
+
+9 🔥
+
+Target
+
+200+
 
 ## 🧭 TRACK STATUS
-
 
 - [ ] Arrays — In Progress
 
@@ -192,15 +374,12 @@ Each stint is 10 days: 7 learning/racing days, 2 challenge days, and 1 pit-stop 
 
 - [ ] Dynamic Programming
 
-
 ## 🚦 CURRENT POSITION
 
+**Race Day:** 09
 
-**Race Day:** 09  
-
-**Next Race:** Day 10 — Medium Array Challenge  
+**Next Race:** Day 10 — Medium Array Challenge
 
 **Current Streak:** 9 Days 🔥
-
 
 > No shortcuts. No skipped fundamentals. Just better laps every day. 🏁
