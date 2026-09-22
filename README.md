@@ -12,10 +12,10 @@
 
 | Metric | Current Status |
 |---|---|
-| **Problems Solved** | 9 |
-| **Current Streak** | 9 Days 🔥 |
+| **Problems Solved** | 10 |
+| **Current Streak** | 10 Days 🔥 |
 | **Current Track** | Arrays |
-| **Race Day** | Day 09 |
+| **Race Day** | Day 10 |
 | **Language** | Java |
 | **Platform** | LeetCode |
 | **Goal** | 200+ Problems |
@@ -26,15 +26,16 @@
 
 | Day | LeetCode | Track | Lap | Difficulty | Time | Result |
 |---:|:---:|---|---|---|---:|---|
-| 01 | #1 | Arrays | Two Sum | Easy | 09:52 | ✅ Accepted |
-| 02 | #121 | Arrays | Best Time to Buy and Sell Stock | Easy | 12:12 | ✅ Accepted |
-| 03 | #217 | Arrays | Contains Duplicate | Easy | 05:32 | ⏱️ TLE → HashSet optimization planned |
-| 04 | #283 | Arrays | Move Zeroes | Easy | 05:43 | ✅ Accepted |
-| 05 | #26 | Arrays | Remove Duplicates from Sorted Array | Easy | 03:58 | ✅ Accepted |
-| 06 | #53 | Arrays | Maximum Subarray | Medium | 31:25 | ✅ Accepted |
-| 07 | #122 | Arrays | Best Time to Buy and Sell Stock II | Medium | 14:13 | ✅ Accepted |
-| 08 | #189 | Arrays | Rotate Array | Medium | 16:50 | ✅ Accepted |
-| 09 | #136 | Arrays | Single Number | Easy | 04:52 | ✅ Accepted |
+| 01 | #1       | Arrays | Two Sum                               | Easy   | 09:52 | ✅ Accepted |
+| 02 | #121   | Arrays | Best Time to Buy and Sell Stock       | Easy   | 12:12 | ✅ Accepted |
+| 03 | #217   | Arrays | Contains Duplicate                    | Easy   | 05:32 | ⏱️ TLE → HashSet optimization planned |
+| 04 | #283   | Arrays | Move Zeroes                           | Easy   | 05:43 | ✅ Accepted |
+| 05 | #26      | Arrays | Remove Duplicates from Sorted Array   | Easy   | 03:58 | ✅ Accepted |
+| 06 | #53      | Arrays | Maximum Subarray                      | Medium | 31:25 | ✅ Accepted |
+| 07 | #122   | Arrays | Best Time to Buy and Sell Stock II    | Medium | 14:13 | ✅ Accepted |
+| 08 | #189   | Arrays | Rotate Array                          | Medium | 16:50 | ✅ Accepted |
+| 09 | #136   | Arrays | Single Number                         | Easy   | 04:52 | ✅ Accepted |
+| 10 | #238   | Arrays | Product of Array Except Self          | Medium | 37:36 | ✅ Accepted |
 
 ---
 
@@ -456,11 +457,11 @@ Then update:
 
 | Metric | Progress |
 |---|---:|
-| Problems | 9 |
+| Problems | 10 |
 | Easy | 6 |
-| Medium | 3 |
+| Medium | 4 |
 | Hard | 0 |
-| Current Streak | 9 🔥 |
+| Current Streak | 10 🔥 |
 | Target | 200+ |
 
 ---
@@ -494,8 +495,8 @@ Then update:
 |---|---|
 | **Race Day** | 09 |
 | **Current Track** | Arrays |
-| **Current Streak** | 9 Days 🔥 |
-| **Next Race** | Day 10 |
+| **Current Streak** | 10 Days 🔥 |
+| **Next Race** | Day 11 |
 | **Next Difficulty** | Medium |
 | **Next Target** | Arrays |
 
