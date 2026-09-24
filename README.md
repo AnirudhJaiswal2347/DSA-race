@@ -12,10 +12,10 @@
 
 | Metric | Current Status |
 |---|---|
-| **Problems Solved** | 10 |
-| **Current Streak** | 10 Days 🔥 |
+| **Problems Solved** | 11 |
+| **Current Streak** | 11 Days 🔥 |
 | **Current Track** | Arrays |
-| **Race Day** | Day 10 |
+| **Race Day** | Day 11 |
 | **Language** | Java |
 | **Platform** | LeetCode |
 | **Goal** | 200+ Problems |
@@ -36,6 +36,7 @@
 | 08 | #189   | Arrays | Rotate Array                          | Medium | 16:50 | ✅ Accepted |
 | 09 | #136   | Arrays | Single Number                         | Easy   | 04:52 | ✅ Accepted |
 | 10 | #238   | Arrays | Product of Array Except Self          | Medium | 37:36 | ✅ Accepted |
+| 11 | #152   | Arrays | Maximum Product Subarray              | Medium | 32:51 | ✅ Accepted |
 
 ---
 
@@ -457,11 +458,11 @@ Then update:
 
 | Metric | Progress |
 |---|---:|
-| Problems | 10 |
+| Problems | 11 |
 | Easy | 6 |
-| Medium | 4 |
+| Medium | 5 |
 | Hard | 0 |
-| Current Streak | 10 🔥 |
+| Current Streak | 11 🔥 |
 | Target | 200+ |
 
 ---
@@ -493,10 +494,10 @@ Then update:
 
 | Telemetry | Status |
 |---|---|
-| **Race Day** | 09 |
+| **Race Day** | 11 |
 | **Current Track** | Arrays |
-| **Current Streak** | 10 Days 🔥 |
-| **Next Race** | Day 11 |
+| **Current Streak** | 11 Days 🔥 |
+| **Next Race** | Day 12 |
 | **Next Difficulty** | Medium |
 | **Next Target** | Arrays |
 
