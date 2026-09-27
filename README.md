@@ -12,10 +12,10 @@
 
 | Metric | Current Status |
 |---|---|
-| **Problems Solved** | 13 |
-| **Current Streak** | 13 Days 🔥 |
+| **Problems Solved** | 14 |
+| **Current Streak** | 14 Days 🔥 |
 | **Current Track** | Arrays |
-| **Race Day** | Day 13 |
+| **Race Day** | Day 14 |
 | **Language** | Java |
 | **Platform** | LeetCode |
 | **Goal** | 200+ Problems |
@@ -39,6 +39,7 @@
 |  11 |   #152   | Arrays | Maximum Product Subarray            | Medium     | 32:51 | ✅ Accepted                            |
 |  12 |    #11   | Arrays | Container With Most Water           | Medium     | 22:15 | ✅ Accepted                            |
 |  13 |    #15   | Arrays | 3Sum                                | Medium     | 23:15 | ✅ Accepted                            |
+|  14 |    #42   | Arrays | Trapping Rain Water                 | Hard       | 39:37 | ✅ Accepted                            |
 
 ---
 
@@ -460,11 +461,11 @@ Then update:
 
 | Metric         | Progress |
 | -------------- | -------: |
-| Problems       |       13 |
+| Problems       |       14 |
 | Easy           |        6 |
 | Medium         |        7 |
-| Hard           |        0 |
-| Current Streak |    13 🔥 |
+| Hard           |        1 |
+| Current Streak |    14 🔥 |
 | Target         |     200+ |
 
 ---
@@ -496,10 +497,10 @@ Then update:
 
 | Telemetry           | Status     |
 | ------------------- | ---------- |
-| **Race Day**        | 13         |
+| **Race Day**        | 14         |
 | **Current Track**   | Arrays     |
-| **Current Streak**  | 13 Days 🔥 |
-| **Next Race**       | Day 14     |
+| **Current Streak**  | 14 Days 🔥 |
+| **Next Race**       | Day 15     |
 | **Next Difficulty** | Hard       |
 | **Next Target**     | Arrays     |
 
