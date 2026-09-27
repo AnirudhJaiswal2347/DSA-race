@@ -12,10 +12,10 @@
 
 | Metric | Current Status |
 |---|---|
-| **Problems Solved** | 11 |
-| **Current Streak** | 11 Days 🔥 |
+| **Problems Solved** | 13 |
+| **Current Streak** | 13 Days 🔥 |
 | **Current Track** | Arrays |
-| **Race Day** | Day 11 |
+| **Race Day** | Day 13 |
 | **Language** | Java |
 | **Platform** | LeetCode |
 | **Goal** | 200+ Problems |
@@ -24,19 +24,21 @@
 
 ## 🏆 Race Log
 
-| Day | LeetCode | Track | Lap | Difficulty | Time | Result |
-|---:|:---:|---|---|---|---:|---|
-| 01 | #1       | Arrays | Two Sum                               | Easy   | 09:52 | ✅ Accepted |
-| 02 | #121   | Arrays | Best Time to Buy and Sell Stock       | Easy   | 12:12 | ✅ Accepted |
-| 03 | #217   | Arrays | Contains Duplicate                    | Easy   | 05:32 | ⏱️ TLE → HashSet optimization planned |
-| 04 | #283   | Arrays | Move Zeroes                           | Easy   | 05:43 | ✅ Accepted |
-| 05 | #26      | Arrays | Remove Duplicates from Sorted Array   | Easy   | 03:58 | ✅ Accepted |
-| 06 | #53      | Arrays | Maximum Subarray                      | Medium | 31:25 | ✅ Accepted |
-| 07 | #122   | Arrays | Best Time to Buy and Sell Stock II    | Medium | 14:13 | ✅ Accepted |
-| 08 | #189   | Arrays | Rotate Array                          | Medium | 16:50 | ✅ Accepted |
-| 09 | #136   | Arrays | Single Number                         | Easy   | 04:52 | ✅ Accepted |
-| 10 | #238   | Arrays | Product of Array Except Self          | Medium | 37:36 | ✅ Accepted |
-| 11 | #152   | Arrays | Maximum Product Subarray              | Medium | 32:51 | ✅ Accepted |
+| Day | LeetCode | Track  | Lap                                 | Difficulty |  Time | Result                                |
+| --: | :------: | ------ | ----------------------------------- | ---------- | ----: | ------------------------------------- |
+|  01 |    #1    | Arrays | Two Sum                             | Easy       | 09:52 | ✅ Accepted                            |
+|  02 |   #121   | Arrays | Best Time to Buy and Sell Stock     | Easy       | 12:12 | ✅ Accepted                            |
+|  03 |   #217   | Arrays | Contains Duplicate                  | Easy       | 05:32 | ⏱️ TLE → HashSet optimization planned |
+|  04 |   #283   | Arrays | Move Zeroes                         | Easy       | 05:43 | ✅ Accepted                            |
+|  05 |    #26   | Arrays | Remove Duplicates from Sorted Array | Easy       | 03:58 | ✅ Accepted                            |
+|  06 |    #53   | Arrays | Maximum Subarray                    | Medium     | 31:25 | ✅ Accepted                            |
+|  07 |   #122   | Arrays | Best Time to Buy and Sell Stock II  | Medium     | 14:13 | ✅ Accepted                            |
+|  08 |   #189   | Arrays | Rotate Array                        | Medium     | 16:50 | ✅ Accepted                            |
+|  09 |   #136   | Arrays | Single Number                       | Easy       | 04:52 | ✅ Accepted                            |
+|  10 |   #238   | Arrays | Product of Array Except Self        | Medium     | 37:36 | ✅ Accepted                            |
+|  11 |   #152   | Arrays | Maximum Product Subarray            | Medium     | 32:51 | ✅ Accepted                            |
+|  12 |    #11   | Arrays | Container With Most Water           | Medium     | 22:15 | ✅ Accepted                            |
+|  13 |    #15   | Arrays | 3Sum                                | Medium     | 23:15 | ✅ Accepted                            |
 
 ---
 
@@ -456,14 +458,14 @@ Then update:
 
 # 📊 STATS
 
-| Metric | Progress |
-|---|---:|
-| Problems | 11 |
-| Easy | 6 |
-| Medium | 5 |
-| Hard | 0 |
-| Current Streak | 11 🔥 |
-| Target | 200+ |
+| Metric         | Progress |
+| -------------- | -------: |
+| Problems       |       13 |
+| Easy           |        6 |
+| Medium         |        7 |
+| Hard           |        0 |
+| Current Streak |    13 🔥 |
+| Target         |     200+ |
 
 ---
 
@@ -492,14 +494,14 @@ Then update:
 
 # 🚦 CURRENT POSITION
 
-| Telemetry | Status |
-|---|---|
-| **Race Day** | 11 |
-| **Current Track** | Arrays |
-| **Current Streak** | 11 Days 🔥 |
-| **Next Race** | Day 12 |
-| **Next Difficulty** | Medium |
-| **Next Target** | Arrays |
+| Telemetry           | Status     |
+| ------------------- | ---------- |
+| **Race Day**        | 13         |
+| **Current Track**   | Arrays     |
+| **Current Streak**  | 13 Days 🔥 |
+| **Next Race**       | Day 14     |
+| **Next Difficulty** | Hard       |
+| **Next Target**     | Arrays     |
 
 ---
 
