@@ -12,10 +12,10 @@
 
 | Metric | Current Status |
 |---|---|
-| **Problems Solved** | 16 |
-| **Current Streak** | 16 Days 🔥 |
+| **Problems Solved** | 17 |
+| **Current Streak** | 17 Days 🔥 |
 | **Current Track** | Arrays |
-| **Race Day** | Day 16 |
+| **Race Day** | Day 17 |
 | **Language** | Java |
 | **Platform** | LeetCode |
 | **Goal** | 200+ Problems |
@@ -42,6 +42,7 @@
 |  14 |    #42   | Arrays | Trapping Rain Water                 | Hard       | 39:37 | ✅ Accepted                            |
 |  15 |    #41   | Arrays | First Missing Positive              | Hard       | 49:01 | ✅ Accepted                            |
 |  16 |    #239  | Arrays | Sliding Window Maximum              | Hard       | 32:00 | ✅ Accepted                            |
+|  17 |    #84  | Arrays | Largest Rectangle in a a Histogram     | Hard       | 30:50 | ✅ Accepted                            |
 
 ---
 
@@ -463,11 +464,11 @@ Then update:
 
 | Metric         | Progress |
 | -------------- | -------: |
-| Problems       |       16 |
+| Problems       |       17 |
 | Easy           |        6 |
 | Medium         |        7 |
-| Hard           |        3 |
-| Current Streak |    16 🔥 |
+| Hard           |        4 |
+| Current Streak |    17 🔥 |
 | Target         |     200+ |
 
 ---
@@ -499,10 +500,10 @@ Then update:
 
 | Telemetry           | Status     |
 | ------------------- | ---------- |
-| **Race Day**        | 16         |
+| **Race Day**        | 17         |
 | **Current Track**   | Arrays     |
-| **Current Streak**  | 16 Days 🔥 |
-| **Next Race**       | Day 17     |
+| **Current Streak**  | 17 Days 🔥 |
+| **Next Race**       | Day 18     |
 | **Next Difficulty** | Hard       |
 | **Next Target**     | Arrays     |
 
